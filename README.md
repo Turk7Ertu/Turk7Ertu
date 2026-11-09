@@ -1,6 +1,6 @@
 # Ertugrul Turkseven
 
-**Math teacher · Data science · Building educational math games**
+**Math teacher · Data science · Building educational math games**<br>
 Higgins Middle School, Peabody MA · M.S. in Data Science, Merrimack College
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ertugrul-turkseven-466888119)
