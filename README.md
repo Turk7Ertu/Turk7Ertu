@@ -1,4 +1,4 @@
-## Ertugrul (Artu) Turkseven
+## Ertugrul Turkseven
 Math teacher in Boston · M.S. in Data Science, Merrimack College
 
 I teach 7th-grade math and use data science and code to build better tools for learning.
