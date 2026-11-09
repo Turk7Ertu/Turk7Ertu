@@ -13,7 +13,7 @@ I teach 7th-grade math and use data science and code to build better tools for l
   How socioeconomic factors and spending affect graduation rates across Massachusetts districts.
   Python · Random Forest · XGBoost · CatBoost
 - **[Hotel Booking Cancellations](https://github.com/Turk7Ertu/Hotel-Booking-Cancellation-Prediction)**<br>
-  PyTorch neural network that predicts cancellations: 83.5% accuracy, AUC 0.89.
+  PyTorch neural network that predicts cancellations: 83.5% accuracy, AUC 0.89 (validation set).
 - **[Salary vs. Cost of Living](https://github.com/Turk7Ertu/Data-Science-Salary-Cost-of-Living-Analysis)**<br>
   Where a data scientist's salary goes furthest, from three merged datasets. Python · pandas
 - **[Salary Analysis for Hiring](https://github.com/Turk7Ertu/Data-Science-Salary-Analysis-for-Competitive-Hiring)**<br>
